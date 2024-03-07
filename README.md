@@ -13,6 +13,3 @@ HTML
 CSS
 JavaScript
 Estou constantemente aprimorando minhas habilidades e aprendendo novas técnicas para criar experiências web incríveis.
-
-Contato
-Você pode me encontrar nas seguintes redes sociais:
