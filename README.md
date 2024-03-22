@@ -4,7 +4,6 @@ Olá! Eu sou o Lucas Martinez Scordamaglia, um jovem apaixonado por aprender coi
 Sobre Mim
 Nome: Lucas Martinez Scordamaglia
 Idade: 16 anos
-Localização: (opcional, se desejar)
 Interesses: Tecnologia, Desenvolvimento Web, Frontend
 Experiência e Habilidades
 Tenho conhecimento e experiência nas seguintes tecnologias:
